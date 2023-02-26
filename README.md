@@ -10,7 +10,7 @@ The idea behind this project is create metrics to measure risk across different 
 
 **Market Confidence**: A measure of which protocols the market trusts the most to put their money into. Divided into % of Amount Borrowed and % of Total Collateral.
 
-Some other ideas for non-traditional metrics for decentralized finance include:
+Given more than 24 hours worth of time, some other non-traditional metrics for decentralized finance could include:
 
 **Executed Position:** Out all the smart contracts, how many have been executed because a borrower has successfully met all the requirements versus becuase of a forced liquididation.
 
