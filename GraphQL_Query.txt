@@ -1,0 +1,18 @@
+# Subgraphs:
+- Compound V2 Ethereum: https://thegraph.com/hosted-service/subgraph/messari/compound-v2-ethereum
+- Aave V3 Ethereum: https://thegraph.com/hosted-service/subgraph/messari/aave-v3-ethereum
+- Abracadabra Money Ethereum: https://thegraph.com/hosted-service/subgraph/messari/aave-v3-ethereum
+- Aave V2 Ethereum: https://thegraph.com/hosted-service/subgraph/messari/aave-v2-ethereum
+- CREAM Finance Ethereum: https://thegraph.com/hosted-service/subgraph/messari/aave-v2-ethereum
+
+
+{
+  accounts(where: {borrows_: {account_not: null}}) {
+    borrows {
+      amountUSD
+    }
+    deposits {
+      amountUSD
+    }
+  }
+}
