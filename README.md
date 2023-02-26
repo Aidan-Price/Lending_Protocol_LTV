@@ -24,3 +24,5 @@ The sample used in this analysis consists of the subgraphs provided by The Graph
 1) **Compound V2 Ethereum:** [Link](https://thegraph.com/hosted-service/subgraph/messari/compound-v2-ethereum)
 2) **Aave V3 Ethereum:** [Link](https://thegraph.com/hosted-service/subgraph/messari/aave-v3-ethereum)
 3) **Abracadbra Money Ethereum:** [Link](https://thegraph.com/hosted-service/subgraph/messari/abracadabra-money-ethereum)
+4) **Aave V2 Ethereum:** [Link](https://thegraph.com/hosted-service/subgraph/messari/aave-v2-ethereum)
+5) **CREAM Finance Ethereum:** [Link](https://thegraph.com/hosted-service/subgraph/messari/cream-finance-ethereum)
