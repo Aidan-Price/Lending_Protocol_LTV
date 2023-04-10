@@ -1,4 +1,4 @@
-# Lending_Protocol_LTV - Hackathon First Place Winner
+# Lending_Protocol_LTV - Hackathon First Place Submission
 
 Lending Protocol Loan-to-Value Ratio Dashboard: **[Final Product](https://lookerstudio.google.com/reporting/d782e5c1-7f48-4297-86e1-47efb6c0523e)**
 
