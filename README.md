@@ -16,7 +16,7 @@ Given more than 24 hours worth of time, some other non-traditional metrics for d
 
 **[Gini Index](https://en.wikipedia.org/wiki/Gini_coefficient):** While traditionally used to measure income disparity in a country, we can use it in decentralized finance as a guage of legal risk. Having a higher distribution of a token shifts the burden of proof from one company to across the total population of holders.
 
-**Colloateral Compisition:** The compisition of the overall collateral of a lending protocol will provide insights into what a loan is being backed by. Is it mostly stable coins like USDC (backed by the U.S. Dolar) or is it a riskier asset like Dogecoin or an NFT? Since most lending protocols require over-collaterization this will tells us how much the collateral put up will fluctuate.
+**Colloateral Compisition:** The compisition of the overall collateral of a lending protocol will provide insights into what a loan is being backed by. Is it mostly stable coins like USDC (backed by the U.S. Dollar) or is it a riskier asset like Dogecoin or an NFT? Since most lending protocols require over-collaterization this will tells us how much the collateral put up will fluctuate.
 - Another interesting analysis would be to see how the collateral compisition changes during bear markets vs. bull runs.
 
 The sample used in this analysis consists of the subgraphs provided by The Graph:
